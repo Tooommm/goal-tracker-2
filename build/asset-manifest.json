@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93d467eb.chunk.css",
+    "main.js": "/static/js/main.95b3b4a9.chunk.js",
+    "main.js.map": "/static/js/main.95b3b4a9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e633916.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e633916.js.map",
+    "static/js/2.39f77c35.chunk.js": "/static/js/2.39f77c35.chunk.js",
+    "static/js/2.39f77c35.chunk.js.map": "/static/js/2.39f77c35.chunk.js.map",
+    "static/js/3.bd10e0f2.chunk.js": "/static/js/3.bd10e0f2.chunk.js",
+    "static/js/3.bd10e0f2.chunk.js.map": "/static/js/3.bd10e0f2.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/main.93d467eb.chunk.css.map": "/static/css/main.93d467eb.chunk.css.map",
+    "static/js/2.39f77c35.chunk.js.LICENSE.txt": "/static/js/2.39f77c35.chunk.js.LICENSE.txt",
+    "static/media/clock-reset.eeca1765.png": "/static/media/clock-reset.eeca1765.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e633916.js",
+    "static/js/2.39f77c35.chunk.js",
+    "static/css/main.93d467eb.chunk.css",
+    "static/js/main.95b3b4a9.chunk.js"
+  ]
+}
